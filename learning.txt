@@ -1,1 +1,2 @@
+What I have learned from this course
 I’ve learned how to use GitHub for real-world collaboration by creating repositories, making commits, and working with branches. I now understand how to fork a repository, contribute through pull requests, and merge updates effectively. One of the most exciting parts was seeing how multiple contributors can work on the same project without conflicts.This course has also helped me appreciate the importance of commit messages, version control, and teamwork in software development.
