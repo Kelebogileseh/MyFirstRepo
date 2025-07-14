@@ -1,6 +1,6 @@
-My Personal and Academic Goals for Next Year.
-Complete a Software Engineering course.
-Get an internship in the customer experience or tech field.
-Contribute to at least one open-source project.
-Improve my problem-solving and coding skills.
-Help others in my learning community grow.
+## My Personal and Academic Goals for Next Year
+- Complete a Software Engineering course
+- Get an internship in the customer experience or tech field
+- Contribute to at least one open-source project
+- Improve my problem-solving and coding skills
+- Help others in my learning community grow
